@@ -142,6 +142,13 @@ https://cyber-glance-tool.lovable.app/
 
 ---
 
+## 📸 Preview
+
+(Add a screenshot of your tool here)
+
+Example:
+
+Screenshot 2026-03-08 191432.png
 
 # 🎯 Future Improvements
 
